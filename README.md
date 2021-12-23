@@ -8,7 +8,7 @@ Hi! I'm your companion (browser extension, desktop app, social network mobile th
 cringeFilter is currently a startup project of mine, don't hesitate to drop stack ideas/code to help develop this modern problem solution.
 Just fork from here and contribute for the sake of being safe from cringing online. 
 
- - https://github.com/kiady696/cringeFilter
+ - https://github.com/kiady696/cringeFilter-
 
 # The contributors
 Thank you for contributing 🎉 :
